@@ -1,0 +1,6 @@
+.page {
+  min-width: 1152px;
+  max-width: 1600px;
+  font-family: 'Nunito', Arial, sans-serif;
+  margin: 0 auto;
+}
